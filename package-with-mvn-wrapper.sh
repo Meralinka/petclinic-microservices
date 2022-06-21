@@ -1,0 +1,1 @@
+./mvnm clean package
